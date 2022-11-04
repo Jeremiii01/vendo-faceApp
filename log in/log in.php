@@ -21,8 +21,8 @@
                 'usertype' => 'Admin'
                  ),
           array(
-               'username' => 'renmark',
-               'password' => 'Pogi1234',
+               'username' => 'jeremi',
+               'password' => 'je1234',
                'usertype' => 'Admin'
                 ),
          array(
